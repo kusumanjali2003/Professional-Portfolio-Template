@@ -71,8 +71,6 @@ a {
     width: 100%; 
     left: 0; 
   }
-
-
   .home
   {
    /* display: flex; */
@@ -197,18 +195,7 @@ a {
     border-radius: 5px;
 }
 
-
-
-
-
-
-
-
-
-
   /* contact */
-  /* Reset default margin and padding */
-
   /* Style for the contact section */
   #contact {
     max-width: 900px; /* Adjust as per your design */
